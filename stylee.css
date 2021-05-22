@@ -154,7 +154,11 @@ img{
     
 }
 
-
+.i{
+    margin-left: 10%; 
+    height: 200px; 
+    width: 2500px;
+}
 #box{
     background: rgba(175, 142, 175, 0.849);
     margin-left: 30px;
