@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+body,html{
+	height: 100%;
+	font-family: 'Merriweather', serif;
+}
+#head2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+    color:black;
+	font-family: 'Merriweather', serif;
+}
+#p1{
+    float:right;
+    margin:6%;
+    padding:2%;
+    background:white;
+    border-radius:10px;
+    color: rgb(79, 0, 182);
+    
+}
+#p2{
+    margin-left:10%;
+    margin-top:10%;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-bottom: 0px;
+}
+#p3{
+    font-size: 0.6em;
+    font-size-adjust: 0.5;
+    margin-top: 10%;
+    margin-left: 1%;
+    margin-right: 13%;
+    line-height: 10px;
+    
+}
+.dot {
+    margin:15 10%;
+    height: 5vmin;
+    width: 5vmin;
+    background-color: #ca9e67;
+    border-radius: 100%;
+    display: inline-block;
+  }
+  #no1{
+      color:rgb(79, 0, 182);
+      margin-left:10%;
+      font-size: 40px;
+      font-family:Arial, Helvetica, sans-serif;
+  }
+#banner1{
+display: flex;
+margin-left:10%;
+
+  }
+#banner2{
+    display: flex;
+    font-size: 0.8vw;
+    margin-left:10%;
+    margin-bottom: 50%;
+    
+  }
+  #nn2{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 23%;
+    color: rgb(79, 0, 182);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  #nn3{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-right: 15%;
+    color: rgb(79, 0, 182);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  #nn4{
+    font-size: 3em;
+    margin-top: 4%;
+    margin-left: 0%;
+    margin-right: 25%;
+    color: rgb(79, 0, 182);
+    font-family:Arial, Helvetica, sans-serif;
+  }
