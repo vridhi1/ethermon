@@ -1,12 +1,13 @@
-*{
-    margin-right: 0px;
-    margin-left: 0px;
-}
+
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
 body,html{
 	height: 100%;
 	font-family: 'Merriweather', serif;
     background-color: rgb(245, 242, 250);
+}
+*{
+    margin-right: 0px;
+    margin-left: 0px;
 }
 .h{
     margin-top: 10%;
@@ -74,7 +75,7 @@ p{
     margin-left: 10%;
     border-radius: 90px;
     color:white;
-    padding: 5 10px;
+    padding: 5px 10px;
     padding-top: 1.2px;
     margin-right: 1%;
 	font-family: 'Merriweather', serif;
@@ -85,7 +86,7 @@ p{
 .btn2{
     border-radius: 90px;
     background: rgb(242, 243, 250);
-        padding:5 10px ;
+        padding:5px 10px ;
     margin-left: 10%;
     margin-left: 0px;
     border-width: 0.2px;
