@@ -124,11 +124,13 @@ p{
     text-decoration: none;
     font-weight: 900;
     font-size: 2vw;
+    margin-right:0.5%;
+    margin-top: 10px;
 
+    
 }
 .n2{
     width: 5%;
-    margin-right: 0%;
     display: inline;
 }
 #n3 {
@@ -143,6 +145,7 @@ p{
 li{
     display: inline;
     list-style-type: none;
+
 }
 h2{
     margin-left: 30px;
