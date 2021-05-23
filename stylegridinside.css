@@ -17,9 +17,11 @@ body,html{
     float:right;
     margin:6%;
     padding:2%;
+    width: 7vw;
     background:white;
     border-radius:10px;
     color: rgb(58, 0, 182);
+    font-size: 1vw;
     
 }
 #p2{
@@ -44,6 +46,14 @@ body,html{
     height: 5vmin;
     width: 5vmin;
     background-color: #b4854c;
+    border-radius: 100%;
+    display: inline-block;
+  }
+  .dot1 {
+    margin:1px 10%;
+    height: 1vmin;
+    width: 1vmin;
+    background-color: #26006d;
     border-radius: 100%;
     display: inline-block;
   }
